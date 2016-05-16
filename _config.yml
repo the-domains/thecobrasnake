@@ -6,9 +6,9 @@ color:
   saturation: 0.7136914869770408
   rhythmicContrast: 0.7543815060053021
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: thecobrasnake
